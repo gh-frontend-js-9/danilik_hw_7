@@ -1,4 +1,4 @@
-# a.Conditions
+### a.Conditions
     Challenge 1:
       1. https://edabit.com/challenge/kLa2w7m4h849k8rmW
       2. https://www.dropbox.com/home/HW_7?preview=chrome_E7iC6S8AfO+%28edited-Pixlr%29.jpg
@@ -15,7 +15,7 @@
       1. https://edabit.com/challenge/RG5NJWDa7pZGFkhTA
       2. https://www.dropbox.com/home/HW_7?preview=chrome_WGUdVQyEZV.png
 
-# b.Loops
+### b.Loops
   Challenge 1:
     1. https://edabit.com/challenge/3kcrnpHk7krNZdnKK
     2. https://www.dropbox.com/home/HW_7?preview=chrome_qvfvpvttY3.png
@@ -32,7 +32,7 @@
     1. https://edabit.com/challenge/ydBcGvv3n447nbxCy
     2. https://www.dropbox.com/home/HW_7?preview=chrome_arI8sAGksj.png
     
-# c.Arrays
+### c.Arrays
   Challenge 1:
     1. https://edabit.com/challenge/Q3n42rEWanZSTmsJm
     2. https://www.dropbox.com/home/HW_7?preview=chrome_lJ3TwwBbGe.png
@@ -49,7 +49,7 @@
     1. https://edabit.com/challenge/FPHnbisnLwrQFYyAg
     2. https://www.dropbox.com/home/HW_7?preview=chrome_IyY68H643x.png
     
-# d.Functional Programming
+### d.Functional Programming
   Challenge 1:
     1. https://edabit.com/challenge/hzxN9bAebBPNqdQto
     2. https://www.dropbox.com/home/HW_7?preview=chrome_ZhsPjroMAK.png
@@ -66,6 +66,5 @@
     1. https://edabit.com/challenge/Fev8jkLtDunP9wexv
     2. https://www.dropbox.com/home/HW_7?preview=msjZfiwFWA.png
     
-# e.Scope
   
   
